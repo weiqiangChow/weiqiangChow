@@ -1,4 +1,9 @@
 ## Hi there 👋
+# I'm Peiqi. A frontend development engineer.
+
+- 🔭 I’m currently working on MIDIPLUS.
+- 🌱 I’m currently learning NodeJS,Python,Java.
+- 📫 How to reach me: weiqiangChoow@gmail.com
 
 <!--
 **weiqiangChow/weiqiangChow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
