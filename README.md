@@ -1,5 +1,6 @@
-## Hi there 👋
-# I'm Peiqi. A frontend development engineer.
+# Hi there 👋
+
+## I'm Peiqi. A frontend development engineer.
 
 - 🔭 I’m currently working on MIDIPLUS.
 - 🌱 I’m currently learning NodeJS,Python,Java.
