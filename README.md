@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img alt="that is a gif. A happy dance gif" src="https://github.com/weiqiangChow/weiqiangChow/blob/main/dance.gif?raw=true" width="100%">
+<img alt="that is a gif. A happy dance gif" src="https://github.com/weiqiangChow/weiqiangChow/blob/main/dance.gif?raw=true" height="200px">
