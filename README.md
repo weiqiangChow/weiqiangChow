@@ -1,5 +1,5 @@
 # Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=&duration=2000&pause=2000&color=58BC58&width=435&lines=Welcome+to+Peiqi's+Github+~)](https://git.io/typing-svg)
 ## I'm Peiqi. A frontend development engineer.
 
 - 🔭 I’m currently working on MIDIPLUS.
@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img alt="that is a gif. A happy dance gif" src="https://github.com/weiqiangChow/weiqiangChow/blob/main/dance.gif?raw=true" height="400px">
+<img alt="that is a gif. A happy dance gif" src="https://github.com/weiqiangChow/weiqiangChow/blob/main/dance.gif?raw=true" height="300px">
